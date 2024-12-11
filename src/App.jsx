@@ -39,7 +39,7 @@ const DEFAULT_LIST = [
     isPaid: false,
   },
   {
-    name: "ค่าไฟ",
+    name: "ค่าไฟ ทดสอบ",
     total: 2500,
     isPaid: false,
   },
