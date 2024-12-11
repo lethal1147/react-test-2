@@ -34,7 +34,7 @@ const DEFAULT = {
 
 const DEFAULT_LIST = [
   {
-    name: "ค่าน้ำ",
+    name: "ค่าน้ำ ทดสอบ",
     total: 400,
     isPaid: false,
   },
